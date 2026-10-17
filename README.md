@@ -1,2 +1,2 @@
-# mistycreatesart
-A static version of my artistic website.
+# lajonmillerart
+The art of LaJon Miller
