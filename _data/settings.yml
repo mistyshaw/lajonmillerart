@@ -120,14 +120,14 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Impressionist nature'
-      url: '/images/footer/imp-footer-gallery1.jpg'
-    - alt: 'Impressionist nature'
-      url: '/images/footer/imp-footer-gallery2.jpg'
-    - alt: 'Impressionist nature'
-      url: '/images/footer/imp-footer-gallery3.jpg'
-    - alt: 'Impressionist nature'
-      url: '/images/footer/imp-footer-gallery4.jpg'
+    - alt: 'Long Beach vibes'
+      url: '/images/footer/long-beach-vibe1.jpg'
+    - alt: 'Long Beach vibes'
+      url: '/images/footer/long-beach-vibe2.jpg'
+    - alt: 'Long Beach vibes'
+      url: '/images/footer/long-beach-vibe3.jpg'
+    - alt: 'Long Beach vibes'
+      url: '/images/footer/long-beach-vibe4.jpg'
 
 
 #-------------------------------
