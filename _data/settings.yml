@@ -33,15 +33,15 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Misty Rose
-  author__bio: Visual artist. Painter, illustrator, digital creator. This is my work, in all its forms.
-  author__avatar: '/images/about/misty-rose-beach-crop.jpg'
+  author__name: LaJon Miller
+  author__bio: Artist Muralist & Creativity Coach
+  author__avatar: '/images/about/lajon-avatar.jpg'
 
 social:
 # - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
 # - {icon: "fa-brands fa-square-facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-instagram", link: "https://instagram.com/mistycreates"}
-- {icon: "fa-brands fa-bluesky", link: "https://bsky.app/profile/mistycreates.bsky.social"}
+- {icon: "fa-brands fa-instagram", link: "https://instagram.com/theartoflajon"}
+# - {icon: "fa-brands fa-bluesky", link: "https://bsky.app/profile/mistycreates.bsky.social"}
 # - {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
 # - {icon: "fa-brands fa-github", link: "https://github.com"}
 
@@ -138,13 +138,11 @@ footer_menu__settings:
       url: '/'
     - title: 'Portfolio'
       url: '/'
-    - title: 'Book'
-      url: '/book/'
    #- title: 'Blog'
     #  url: '/blog/'
     #- url: '/about/'
     #  title: 'About'
-    - url: 'https://www.instagram.com/mistycreates/'
+    - url: 'https://www.instagram.com/theartoflajon/'
       title: 'Contact'
     #- url: '/elements/'
    #   title: 'Elements'
