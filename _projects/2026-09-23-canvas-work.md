@@ -6,9 +6,7 @@ image: '/images/portfolio/paintings/canvas-work/Spider-Gwen-Vertical.jpg'
 image_layout: no-image
 ---
 
-These series of mini paintings have been a way for me to learn and practice a variety of acrylic painting techniques, by way of the artist Mark Daniel Nelson.
-
-At 5″x5″, they are small in size, were fun to create!
+A description here of the work on this page.
 
 <div class="gallery-box gallery-box--masonry">
   <div class="gallery">
