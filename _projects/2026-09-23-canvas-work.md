@@ -1,7 +1,7 @@
 ---
 title: Canvas Work
 date: 2026-09-23 08:01:35 +0800
-subtitle: Painting
+subtitle: Paintings
 image: '/images/portfolio/paintings/canvas-work/Spider-Gwen-Vertical.jpg'
 image_layout: no-image
 ---
